@@ -12,6 +12,6 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
-    "@lamanhub/laman-cli": "^1.0.3"
+    "@lamanhub/laman-cli": "^1.0.4"
   }
 }
