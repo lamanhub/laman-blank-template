@@ -4,14 +4,15 @@
   "description": "",
   "main": "postcss.config.js",
   "scripts": {
-    "dev": "laman run",
-    "build": "laman build"
+    "dev": "laman run dev",
+    "build": "laman build",
+    "start": "laman run prod"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
-  "devDependencies": {
-    "lamanjs": "^1.0.1"
+  "dependencies": {
+    "lamanjs": "^1.0.2"
   }
 }
