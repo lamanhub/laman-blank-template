@@ -1,5 +1,5 @@
 {
-  "name": "lamanhub-app",
+  "name": "lamanjs",
   "version": "1.0.0",
   "description": "",
   "main": "postcss.config.js",
@@ -12,6 +12,6 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
-    "@lamanhub/laman-cli": "^1.0.4"
+    "lamanjs": "^1.0.1"
   }
 }
