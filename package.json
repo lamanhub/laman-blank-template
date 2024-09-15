@@ -13,6 +13,6 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "lamanjs": "^1.0.2"
+    "lamanjs": "^1.0.3"
   }
 }
