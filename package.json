@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "laman run dev",
     "build": "laman build",
-    "start": "laman run prod"
+    "start": "laman run prod",
+    "deploy": "laman deploy"
   },
   "keywords": [],
   "author": "",
