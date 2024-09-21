@@ -14,7 +14,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "lamanjs": "^1.0.12"
+    "lamanjs": "^1.0.13"
   },
   "devDependencies": {
     "typescript": "^5.6.2"
